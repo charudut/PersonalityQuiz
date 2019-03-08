@@ -1,93 +1,111 @@
 {
   "images" : [
-    {
-      "idiom" : "iphone",
+	{
       "size" : "20x20",
-      "scale" : "2x"
+      "idiom": "iphone",
+	  "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-20@2x.png",
+      "scale": "2x"
     },
-    {
-      "idiom" : "iphone",
+	{
       "size" : "20x20",
-      "scale" : "3x"
+      "idiom": "iphone",
+	  "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-20@3x.png",
+      "scale": "3x"
+    },
+	{
+      "size" : "20x20",
+      "idiom": "ipad",
+	  "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-20.png",
+      "scale": "1x"
     },
     {
-      "idiom" : "iphone",
+      "size" : "20x20",
+      "idiom": "ipad",
+	  "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-20@2x.png",
+      "scale": "2x"
+    },
+    {
       "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-29@2x.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "iphone",
       "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-29@3x.png",
       "scale" : "3x"
     },
     {
-      "idiom" : "iphone",
       "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-40@2x.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "iphone",
       "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-40@3x.png",
       "scale" : "3x"
     },
     {
-      "idiom" : "iphone",
       "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-60@2x.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "iphone",
       "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-60@3x.png",
       "scale" : "3x"
     },
     {
-      "idiom" : "ipad",
-      "size" : "20x20",
-      "scale" : "1x"
-    },
-    {
-      "idiom" : "ipad",
-      "size" : "20x20",
-      "scale" : "2x"
-    },
-    {
-      "idiom" : "ipad",
       "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-29.png",
       "scale" : "1x"
     },
     {
-      "idiom" : "ipad",
       "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-29@2x.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "ipad",
       "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-40.png",
       "scale" : "1x"
     },
     {
-      "idiom" : "ipad",
       "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-40@2x.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "ipad",
       "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-76.png",
       "scale" : "1x"
     },
     {
-      "idiom" : "ipad",
       "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-76@2x.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "ipad",
       "size" : "83.5x83.5",
+      "idiom" : "ipad",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-83.5@2x.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "ios-marketing",
       "size" : "1024x1024",
+      "idiom" : "ios-marketing",
+      "filename" : "370d33897e9d7c32375ba9bd810f9d38_28-collection-of-turtle-clipart-cute-high-quality-free-_360-334-1024.png",
       "scale" : "1x"
     }
   ],
